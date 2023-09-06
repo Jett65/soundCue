@@ -1,9 +1,6 @@
 package sound
 
-import (
-    "fmt"
+import ( 
 )
 
-func test() {
-    fmt.Println("hello")
-}
+
